@@ -7,6 +7,8 @@ public class TestChess {
 System.out.println("sdfsdf");
 
 System.out.println("dfsdfdsf");
+
+//asdasd
 	}
 
 }
